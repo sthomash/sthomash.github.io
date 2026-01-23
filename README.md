@@ -11,7 +11,6 @@ Landing Page
       height: 100%;
       margin: 0;
     }
-
     body {
       background-color: #000;
       color: #FFD400; /* strong yellow */
@@ -20,7 +19,6 @@ Landing Page
       justify-content: center;
       font-family: Arial, Helvetica, sans-serif;
     }
-
     h1 {
       font-size: clamp(3rem, 10vw, 8rem);
       font-weight: 800;
