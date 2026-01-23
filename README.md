@@ -4,35 +4,47 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Be Cool</title>
+
+  <!-- Roboto font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700;900&display=swap" rel="stylesheet">
+
   <style>
     html, body {
       height: 100%;
       margin: 0;
     }
+
     body {
       background-color: #000;
       color: #FFD400;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-family: Arial, Helvetica, sans-serif;
+      font-family: 'Roboto', sans-serif;
     }
+
     .container {
       text-align: center;
     }
+
     h1 {
       font-size: clamp(3rem, 10vw, 8rem);
-      font-weight: 800;
-      letter-spacing: 0.05em;
+      font-weight: 900;
+      letter-spacing: 0.04em;
       margin: 0;
     }
+
     .tagline {
-      font-size: 0.9rem;
-      letter-spacing: 0.15em;
-      opacity: 0.8;
+      font-size: 0.85rem;
+      font-weight: 300;
+      letter-spacing: 0.18em;
+      opacity: 0.75;
       margin-top: 0.75rem;
       text-transform: lowercase;
     }
+
     .tagline + .tagline {
       margin-top: 0.25rem;
     }
