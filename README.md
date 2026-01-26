@@ -39,7 +39,7 @@
     .tagline {
       font-size: 0.85rem;
       font-weight: 300;
-      letter-spacing: 0.18em;
+      letter-spacing: 0.18rem;
       opacity: 0.75;
       margin-top: 0.75rem;
       text-transform: lowercase;
