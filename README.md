@@ -30,23 +30,23 @@
     }
 
     h1 {
-      font-size: clamp(3rem, 10vw, 8rem);
+      font-size: 64;
       font-weight: 900;
-      letter-spacing: 0.04em;
+      letter-spacing: 0.04;
       margin: 0;
     }
 
     .tagline {
-      font-size: 0.85rem;
+      font-size: 0.85;
       font-weight: 300;
-      letter-spacing: 0.18rem;
+      letter-spacing: 0.18;
       opacity: 0.75;
-      margin-top: 0.75rem;
+      margin-top: 0.75;
       text-transform: lowercase;
     }
 
     .tagline + .tagline {
-      margin-top: 0.25rem;
+      margin-top: 0.25
     }
   </style>
 </head>
