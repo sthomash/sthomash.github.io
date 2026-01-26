@@ -52,7 +52,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Be Cool</h1>
+    <h1><strong><em>Be Cool</em></strong></h1>
     <div class="tagline">to yourself</div>
     <div class="tagline">to each other</div>
   </div>
