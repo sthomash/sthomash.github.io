@@ -8,14 +8,14 @@
         <style>
           body {
                    background-color: #000000;
-                   color: rgb(255, 220, 0);
+                   color: #ffff00);
                    font-family: "DM Serif Text", serif;
                    font-optical-sizing: auto;
                    font-weight: 800;
                    font-style: normal;
                    text-align: left;
                    text-justify: left;
-                   margin:0%;
+                   margin: 0;
 
                                    }
           h1 {
