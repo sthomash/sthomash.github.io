@@ -1,30 +1,36 @@
-          body {
-                   background-color: #000000;
-                   color: rgb(255, 220, 0);
-                   font-family: "DM Serif Text", serif;
-                   font-optical-sizing: auto;
-                   font-weight: 800;
-                   font-style: normal;
-                   text-align: left;
-                   text-justify: left;
-                   margin:0;
-                                       }
-          h1 {
-                    font-weight: 600;
-                    font-size: 164px;
-                    padding-bottom: 0%;
-                    border-bottom: 0px;
-          }   
-          h2 {
-                    font-weight: 450;
-                    font-size: medium;
-                    line-height: 0.5;
-          }     
-          footer {
+
+    body {
+        background-color: #000000;
+        color: rgb(255, 220, 0);
+        font-family: "DM Serif Text", Georgia, 'Times New Roman', Times, serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        text-align: left;
+        
+    }
+ footer {
                     font-weight: 100;
                     font-size: small;
                     text-align: center;
-          }      
-           a:link, a:visited {
+   }      
+ a:link, a:visited {
                     color: rgb(255, 220, 0);
-                    text-decoration: none;}        
+                    text-decoration: none;
+  }
+#centerpiece {
+    font-size: 225px;
+    font-weight: 700;
+    text-align: left;
+    line-height: .75em;  
+}        
+#subheading {
+    text-align: left;
+    font-size: 24px;
+    font-weight: 100;
+    
+}
+p1 {
+    font-size: 64px;
+    line-height: 1em;
+}
