@@ -9,28 +9,34 @@
         text-align: left;
         
     }
- footer {
+          footer {
                     font-weight: 100;
                     font-size: small;
                     text-align: center;
-   }      
- a:link, a:visited {
+          }      
+           a:link, a:visited {
                     color: rgb(255, 220, 0);
                     text-decoration: none;
-  }
+    }
 #centerpiece {
     font-size: 225px;
     font-weight: 700;
     text-align: left;
-    line-height: .75em;  
+    line-height: .65em;  
 }        
 #subheading {
     text-align: left;
-    font-size: 24px;
+    font-size: 64px;
     font-weight: 100;
-    
+    line-height: .75em;    
 }
-p1 {
+    #p1 {
     font-size: 64px;
     line-height: 1em;
+}
+    #p2 {
+    font-size: 124px;
+    line-height: 1em;
+    color: rgb(255,200,0)
+
 }
